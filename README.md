@@ -1,5 +1,4 @@
 # Me in 30 seconds   
-<b>30 things about me : </b>   
 (under construction)  
 From: Colombia  
 Current location: France   
