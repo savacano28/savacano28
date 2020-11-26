@@ -1,5 +1,5 @@
-# Me in 30 seconds (under construction)
-<b>30 things about me : </b>   
+# Me in 30 seconds   
+<b>30 things about me : (under construction) </b>   
 From: Colombia  
 Current location: France   
 Education: Electronic enginner  
