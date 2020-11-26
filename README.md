@@ -1,5 +1,6 @@
 # Me in 30 seconds   
-<b>30 things about me : (under construction) </b>   
+<b>30 things about me : </b>   
+(under construction)  
 From: Colombia  
 Current location: France   
 Education: Electronic enginner  
