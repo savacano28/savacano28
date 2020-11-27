@@ -6,12 +6,13 @@ Education:
 -Master en BI&BigData (FC)    
 Job:   
 -Software engineer   
-Skills:     
+Tech skills:     
 -Dev : java (spring), angular (xp 2.5 y)    
 -DB :  ES, posgres, mongodb, neo4j, influxDB (xp 2.5y)      
 -ERP/CRM : VTiger, Odoo  (xp .5y)    
 -Big data : spark, hadoop, hive, talend (xp .5y)        
 -Version : git (xp 3y)   
+Looking for : A new job in big data   
 Languages: Spanish, english, french speaking and a little bit of german    
 Hobbies: Mathematics lover, theater, cooking, peintre, literature, hiking...     
 
@@ -19,3 +20,4 @@ Hobbies: Mathematics lover, theater, cooking, peintre, literature, hiking...
 
 
 
+ 
