@@ -4,7 +4,8 @@ Current location: France
 Education:   
 -Electronic enginner (Bac+5)  
 -Master en BI&BD (FC)  
-Job: Software engineer  
+Job: 
+-Software engineer  
 Skills:   
 -Dev : java (spring), angular   
 -DB :  ES, posgres, mongodb, neo4j, influxDB  
