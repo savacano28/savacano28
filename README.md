@@ -3,7 +3,7 @@
 Current location: France     
 Education:   
 -Electronic enginner (Bac+5)  
--Master en BI&BigData (FC)    
+-Master en BI&BigData     
 Job:   
 -Software engineer  
 Tech skills:     
