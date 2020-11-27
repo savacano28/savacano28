@@ -8,9 +8,9 @@ Job:
 -Software engineer   
 Skills:     
 -Dev : java (spring), angular (xp 2.5 y)    
--DB :  ES, posgres, mongodb, neo4j, influxDB (xp 2.5)    
--ERP/CRM : VTiger, Odoo  (xp .5y)  
--Big data : spark, hadoop, hive (xp .5y)      
+-DB :  ES, posgres, mongodb, neo4j, influxDB (xp 2.5y)      
+-ERP/CRM : VTiger, Odoo  (xp .5y)    
+-Big data : spark, hadoop, hive, talend (xp .5y)        
 -Version : git (xp 3y)   
 Languages: Spanish, english, french speaking and a little bit of german    
 Hobbies: Mathematics lover, theater, cooking, peintre, literature, hiking...     
