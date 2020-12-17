@@ -3,7 +3,7 @@
 Current location: France     
 Education:   
 -Electronic enginner (Bac+5)  
--Master en BI&BigData     
+-Master en BI&BigData (FC)    
 Job:   
 -Software engineer  
 Tech skills:     
@@ -13,7 +13,7 @@ Tech skills:
 -Big data : spark, hadoop, hive, talend (xp .5y)        
 -Version : git (xp 3y)   
 Languages: Spanish, english, french speaking and a little bit of german    
-Hobbies: Mathematics lover, theater, cooking, peintre, literature, hiking...     
+Hobbies: Mathematics lover, theater, cooking, peintre, literature, hiking and Music (funk, rock, blues...)   
 
 
 
