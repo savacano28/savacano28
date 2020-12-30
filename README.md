@@ -12,6 +12,8 @@ Tech skills:
 -ERP/CRM : VTiger, Odoo, pentaho  (xp .5y)    
 -Big data : spark, hadoop, hive, talend (xp .5y)        
 -Version : git (xp 3y)   
+-Automation : docker, vagrant, ansible, puppet, jenkins
+-Testing : selenium, junit
 Languages: Spanish, english, french and a little bit of german    
 Hobbies: cooking, peintre, literature, hiking and Music (funk, rock, blues...)   
 
