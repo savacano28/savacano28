@@ -1,4 +1,4 @@
-# Me
+# Me in 30 seconds
 (under construction)  
 Current location: France     
 Education:   
