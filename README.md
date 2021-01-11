@@ -2,10 +2,11 @@
 (under construction)  
 Current location: France     
 Education:   
--Electronic enginner (Bac+5)  
--Master en BI&BigData (FC)    
+-Electronic enginner (Bac+5) - 2016    
+-Master en Technologies de l'information et WEB - 2018     
+-Master en BI&BigData (FC) - 2021   
 Job:   
--Software engineer  
+-Software engineer  - ongoing  
 Tech skills:     
 -Dev : java (spring), angular (xp 2.5 y)    
 -DB :  ES, postgres, neo4j, influxDB (xp 2.5y)      
