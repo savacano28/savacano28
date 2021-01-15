@@ -10,10 +10,9 @@ Job:
 Tech skills:     
 -Dev : java (spring), angular (xp 2.5 y)    
 -DB :  ES, postgres, neo4j, influxDB (xp 2.5y)      
--ERP/CRM : VTiger, Odoo, pentaho  (xp .5y)    
 -Big data : spark, hadoop, hive, talend (xp .5y)        
 -Version : git (xp 3y)     
--Automation : docker, vagrant, ansible, puppet, jenkins  
+-Automation : docker, vagrant, jenkins  
 -Testing : selenium, junit  
 Languages: Spanish, english, french and a little bit of german    
 Hobbies: cooking, painting, reading... and I started to write in medium too : https://savacano28.medium.com/
