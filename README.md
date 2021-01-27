@@ -6,7 +6,7 @@ Education:
 -Master en Technologies de l'information et WEB - 2018     
 -Master en BI&BigData (FC) - 2021   
 Job:   
--Software engineer  - ongoing  
+-Software engineer  2018 - ongoing  
 Tech skills:     
 -Dev : java (spring), angularjs (xp 2.5 y)    
 -DB :  ES, postgres, mongoDB, neo4j, influxDB (xp 2.5y)      
