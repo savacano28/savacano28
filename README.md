@@ -8,15 +8,15 @@ Education:
 Job:   
 -Software engineer  2018 - ongoing  
 Tech skills:     
--Dev : java (spring), angularjs (xp 2.5 y)    
+-Dev : java (spring), camunda (BPMN) (xp 0.5y), angularjs (xp 2.5 y), angular (xp 0.5y)    
 -DB :  ES, postgres, mongoDB, neo4j, influxDB (xp 2.5y)      
 -Big data : spark, hadoop, hive, talend (xp .5y)        
 -Version : git (xp 3y)     
--Automation : docker, vagrant, jenkins  
+-Automation : docker, vagrant, jenkins, bamboo
 -Testing : selenium, junit  
 Languages: Spanish, english, french and a little bit of german    
 Hobbies: cooking, painting, reading (latin and african american literature)    
-and I started to write in medium too : https://savacano28.medium.com/  
+and I used to write in medium too : https://savacano28.medium.com/  :(
 
 
 
