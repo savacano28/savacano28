@@ -1,5 +1,5 @@
 # Me in 30 seconds
-(under construction)  
+(under de construction)  
 Current location: France     
 Education:   
 -Electronic enginner (Bac+5) - 2016    
