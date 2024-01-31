@@ -2,9 +2,9 @@
 (under de construction)  
 Current location: France     
 Education:   
--Electronic enginner (Bac+5) - 2016    
--Master en Technologies de l'information et WEB - 2018     
--Master en BI&BigData (FC) - 2021   
+-Electronic enginner (Bac+5) - CO   
+-Master en Technologies de l'information et WEB - FR    
+-Master en BI&BigData (FC) - FR
 Job:   
 -Software engineer  2018 - ongoing  
 Tech skills:     
