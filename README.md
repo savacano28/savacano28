@@ -14,7 +14,7 @@ Tech skills:
 -Automation : docker, vagrant, jenkins, bamboo  
 -Testing : selenium, cypress, junit, mockito, cucumber   
 Languages: Spanish, english, french and a little bit of german      
-Hobbies: cooking, painting, reading (latin and african american literature)      
+Hobbies: cooking, eating, painting, reading...       
 and I used to write in medium too : https://savacano28.medium.com/  :(  
 
 
